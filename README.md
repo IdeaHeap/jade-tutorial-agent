@@ -1,5 +1,7 @@
 #Introduction
 
+This is the markdown version of the tutorial [On IdeaHeap.com](http://www.ideaheap.com/2015/05/jade-setup-for-beginners/).
+
 ##Prerequisites
 
 This howto is written assuming that you have basic understanding of Java and that you are capable of downloading [Maven](https://maven.apache.org/) and get it on your command line. You may also want to choose an IDE (Eclipse or Intellij are both good choices).
